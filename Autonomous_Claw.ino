@@ -1,6 +1,8 @@
+// Preprocessor Directives
 #include <NewPing.h>
 #include <Servo.h>
 
+// Definitions
 #define OPEN_LIGHT_CHANNEL 7
 #define CLOSED_LIGHT_CHANNEL 6
 
